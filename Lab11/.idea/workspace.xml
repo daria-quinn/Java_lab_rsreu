@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17d60b56-0093-4108-b0e8-ecfcec167662" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+  </component>
+  <component name="ProjectId" id="1c1wg5GyoOwBfGPvPGO33XKM0iJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\РГРТУ\3 курс\6 семестр\Java\Lab11\src" />
+      <recent name="D:\РГРТУ\3 курс\6 семестр\Java\Lab11\appmodules" />
+      <recent name="D:\РГРТУ\3 курс\6 семестр\Java\Lab11\appstart\src" />
+      <recent name="D:\РГРТУ\3 курс\6 семестр\Java\Lab11\appstart" />
+      <recent name="D:\РГРТУ\3 курс\6 семестр\Java\Lab11\appfuncs\src\appfuncs\funcs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\РГРТУ\3 курс\6 семестр\Java\Lab11\MyModule\appsrc\appstart" />
+      <recent name="D:\РГРТУ\3 курс\6 семестр\Java\Lab11\MyModule\appsrc\appstart\task1" />
+      <recent name="D:\РГРТУ\3 курс\6 семестр\Java\Lab11\MyModule\appsrc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rsreu.Main" />
+      <module name="Lab11" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="appstart.task1.Task1" />
+      <module name="appstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appstart.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17d60b56-0093-4108-b0e8-ecfcec167662" name="Default Changelist" comment="" />
+      <created>1589709515929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589709515929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="795" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589716272303">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="795" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589716272303" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1589904980699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589904980699" />
+    <state x="505" y="262" key="Github.CreateGistDialog" timestamp="1589905057916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="505" y="262" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1589905057916" />
+    <state x="553" y="257" key="Github.ShareDialog" timestamp="1589904968204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1589904968204" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1589726539610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589726539610" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1589726539610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589726539610" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1589726539610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589726539610" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1589726539610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589726539610" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1589905013272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589905013272" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1589904765942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589904765942" />
+    <state x="65" y="0" key="new project wizard" timestamp="1589721787508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589721787508" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589905053460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589905053460" />
+  </component>
+</project>
