@@ -20,8 +20,8 @@ public class ConsumerApple implements Runnable  {
 
 
             this.notebook.remove(notebook.size() - 1);
-            System.out.println("Продана пачка: Число пачек на складе: " + notebook.size());
-            System.out.println("Всего продано пачек: " + count);
+            System.out.println("Продана ноутбук: Число ноутбуков на складе: " + notebook.size());
+            System.out.println("Всего продано ноутбуков: " + count);
             System.out.println(" ");
             try {
                 if (this.notebook.size() == 0) {
