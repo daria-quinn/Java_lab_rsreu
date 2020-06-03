@@ -2,12 +2,12 @@ package rsreu;
 
 import java.util.List;
 
-public class ProducerAplle implements Runnable {
+public class ProducerApple implements Runnable {
 
     List<PK> notebook;
     Thread t;
 
-    ProducerAplle( List<PK> notebook) {
+    ProducerApple( List<PK> notebook) {
         this.notebook = notebook;
         t = new Thread((Runnable) this, "Producer");
         t.start();
